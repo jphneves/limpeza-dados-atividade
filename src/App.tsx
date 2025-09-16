@@ -50,7 +50,7 @@ function App() {
 
       // Add title
       const title = document.createElement("h1");
-      title.textContent = "Questionário sobre Ciência de Dados";
+      title.textContent = "Questionário sobre Limpeza de Dados";
       title.style.textAlign = "center";
       title.style.marginBottom = "15px";
       title.style.color = "#333";
@@ -58,7 +58,7 @@ function App() {
 
       // Add subtitle
       const subtitle = document.createElement("h2");
-      subtitle.textContent = "Engenharia de Software 6° período";
+      subtitle.textContent = "FAG - Engenharia de Software 6° período";
       subtitle.style.textAlign = "center";
       subtitle.style.marginBottom = "20px";
       subtitle.style.color = "#666";
