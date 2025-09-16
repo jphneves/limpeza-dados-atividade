@@ -173,8 +173,8 @@ function App() {
   return (
     <div className="app">
       <div className="container" ref={formRef}>
-        <h1 className="title">Questionário sobre Ciência de Dados</h1>
-        <h2 className="subtitle">Engenharia de Software 6° período</h2>
+        <h1 className="title">Questionário sobre Limpeza de Dados</h1>
+        <h2 className="subtitle">FAG - Engenharia de Software 6° período</h2>
 
         <div className="name-section">
           <label htmlFor="userName" className="name-label">
